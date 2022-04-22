@@ -1,0 +1,22 @@
+{
+  "name": "primer-express",
+  "version": "1.0.0",
+  "description": "Primer Proyecto Node y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarRiveraS/GitExpress.git"
+  },
+  "author": "Edgar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarRiveraS/GitExpress/issues"
+  },
+  "homepage": "https://github.com/EdgarRiveraS/GitExpress#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
